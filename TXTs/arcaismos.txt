@@ -3111,7 +3111,7 @@ comminador cominador
 comminar cominar
 comminativo cominativo
 comminatorio cominatorio
-fallar falar 
+fallar falar
 fallatorio falatorio
 comminuir cominuir
 comminutivo cominutivo
