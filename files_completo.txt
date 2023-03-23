@@ -1,5 +1,0 @@
-./files/Unitario_1955_11_0058.txt
-./files/Unitario_1958_12_0028.txt
-./files/Unitario_1974_04_0169.txt
-./files/Unitario_1961_10_0130.txt
-./files/Unitario_1969_09_0294.txt

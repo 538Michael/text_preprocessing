@@ -1,92 +1,82 @@
-# -*- coding: utf-8 -*-
-# pip install spacy --upgrade
-# python -m spacy download pt
-"""_summary_"""
-from pathlib import Path
+import codecs
+import os
+import re
+from time import time
 
-from libs.limpeza import (
-    limpa_caracteres_especiais,
-    limpa_palavras_pequenas,
-    limpa_sem_acentos,
-    limpa_stopwords2,
-    limpa_substantivos,
-    limpa_texto_arcaismo,
-    limpa_texto_final,
-    limpa_texto_verbo,
-    pega_nomes_proprios,
-    save_file,
-)
-from util import *
+from lib import *
 
-with open("./files.txt", "r", encoding="utf-8") as fs:
-    files = fs.readlines()
+final_words = []
+trash_words = []
+leftover_words = []
 
-    for file in files:
-        file = Path(file.replace("\n", ""))
+path = "./txt_to_be_processed"
 
-        with open(file, "r", errors="ignore", encoding="utf-8") as arquivo:
-            txt = arquivo.read()
+for file_name in os.listdir(path):
+    with codecs.open(
+        f"{path}/{file_name}", "r", encoding="utf-8-sig", errors="ignore"
+    ) as file:
+        text = file.read()
+        # \(\)\[\]\{\}
+        delimiters = r"[\s.?!,:;\'\"…]"
+        words = re.split(delimiters, text)
+        words = [word for word in words if word]
 
-        # Define o caminho RAIZ onde serão  gravados os arquivos
+        print(file_name)
 
-        file_proc = f"txt_processados/{file.name}"
+        start_time = time()
 
-        # Ver se o arquivo de ENTRADA possui pelo menos 50 caracteres para serem avaliados
-        # Se não houver nada - é gravado um arquivo com esse nome VAZIO
+        for word in words:
 
-        if txt.strip() == "" or len(txt) < 50:
-            save_file(file_proc, "vazio", txt)
-            continue
+            first_step = remove_special_characters(word)
+            if first_step is None:
+                if first_step:
+                    trash_words.append((word, "1"))
+                continue
 
-        # Ver se o arquivo de ENTRADA possui pelo menos 50 caracteres para serem avaliados
-        # Se não houver nada - é gravado um arquivo com esse nome VAZIO
+            second_step = check_if_short_word(first_step)
+            if second_step is None:
+                trash_words.append((word, "2"))
+                continue
 
-        # Aqui são retirados os caracteres especiais - verificar se ainda ficaram alguns
+            third_step = remove_accents(second_step)
+            if third_step is None:
+                continue
 
-        texto_limpo_p1, texto_lixo_p1 = limpa_caracteres_especiais(txt)
+            fourth_step = remove_stop_words(third_step)
+            if fourth_step is None:
+                trash_words.append((word, "4"))
+                continue
 
-        texto_limpo_p2, texto_lixo_p2 = limpa_palavras_pequenas(
-            texto_limpo_p1, palavras_pequenas
-        )
-        texto_limpo_p3, texto_lixo_p3 = limpa_sem_acentos(texto_limpo_p2)
-        # texto_limpo_p4, texto_lixo_p4 = transforma_texto_arcaismo(texto_limpo_p3 ,arcaismos)
-        texto_limpo_p45, texto_lixo_p45 = limpa_stopwords2(texto_limpo_p3, stop_words)
+            if fourth_step[0].isupper():
+                final_words.append((word, fourth_step))
+                continue
 
-        # transforma todos as palavras em minusculas
-        texto_limpo_p45 = [[item[0], item[1].lower()] for item in texto_limpo_p45]
+            fifth_step = check_if_first_name(fourth_step)
+            if fifth_step is not None:
+                final_words.append((word, fifth_step))
+                continue
 
-        texto_substantivos, texto_p4 = limpa_substantivos(texto_limpo_p45, substantivos)
+            fourth_step = fourth_step.lower()
 
-        # start_time = time.time()
+            sixth_step = check_if_substantive(fourth_step)
+            if sixth_step is not None:
+                final_words.append((word, sixth_step))
+                continue
 
-        # Estamos TROCANDO de posição da pesquisa nos VERBOS para depois dos nomes próprios
-        texto_nomes, texto_p8 = pega_nomes_proprios(texto_p4, nomes_proprios)
-        texto_verbos, texto_p7 = limpa_texto_verbo(texto_p8, verbos)
-        # print("--- %s seconds ---" % (time.time() - start_time))
+            seventh_step = check_if_verb(fourth_step)
+            if seventh_step is not None:
+                final_words.append((word, seventh_step))
+                continue
 
-        # texto_nomes, texto_p8 = pega_nomes_proprios(texto_p7, nomes_proprios)
-        texto_arcaismo, texto_p9 = limpa_texto_arcaismo(texto_p8, arcaismos)
+            eighth_step = check_if_archaic(fourth_step)
+            if eighth_step is not None:
+                final_words.append((word, eighth_step))
+                continue
 
-        texto_final, texto_sobra = limpa_texto_final(
-            texto_p9, texto_substantivos, texto_verbos, texto_nomes, texto_arcaismo
-        )
-        texto_lixo_final = (
-            texto_lixo_p1 + texto_lixo_p2 + texto_lixo_p45 + texto_lixo_p3
-        )
+            leftover_words.append((word, fourth_step))
 
-        set1 = set()
-        for i in texto_lixo_final:
-            i[1] = i[1].lower()
-            set1.add(tuple(i))
+        save_file(file_name, "final_words", final_words)
+        save_file(file_name, "leftover_words", leftover_words)
+        save_file(file_name, "trash_words", trash_words)
 
-        texto_lixo_final = sorted(list(set1), key=lambda x: x[1])
-
-        # texto_lixo_final = f'{texto_lixo_p1}'
-
-        save_file(file_proc, "final", texto_final)
-        save_file(file_proc, "sobra", texto_sobra)
-
-        # Rotina que salva todos os arquivos intermediarios separadamente
-        #
-        save_file(file_proc, "lixo", texto_lixo_final)
-        print(f"--- FIM {file.name} ---")
+        print(f"Elapsed time: {time() - start_time} seconds")
