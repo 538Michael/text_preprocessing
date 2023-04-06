@@ -6,20 +6,34 @@ from .files import *
 
 # from spacy.lang.pt.stop_words import STOP_WORDS
 
-
 # First step
-def remove_special_characters(word: str) -> str:
+def check_hyphens(word: str) -> list:
 
     if word is None:
         return None
 
-    word = word.replace("ç", "c").replace("Ç", "c")
-    word = re.sub(r"[^a-zA-Z-\u00C0-\u017F]", "", word)
+    if "-" in word[:2]:
+        word = word[:2].replace("-", "") + word[2:]
+
+    if "-" in word[-3:]:
+        word = word[:-3] + word[-3:].replace("-", "")
 
     return word
 
 
 # Second step
+def remove_special_characters(word: str) -> str:
+
+    if word is None:
+        return None
+
+    # word = word.replace("ç", "c").replace("Ç", "c")
+    word = re.sub(r"[^a-zA-Z-\u00C0-\u017F]", "", word)
+
+    return word
+
+
+# Third step
 def check_if_short_word(word: str) -> bool:
 
     if word is None:
@@ -31,7 +45,7 @@ def check_if_short_word(word: str) -> bool:
     return word
 
 
-# Third step
+# Fourth step
 def remove_accents(word: str) -> str:
 
     if word is None:
@@ -40,7 +54,7 @@ def remove_accents(word: str) -> str:
     return unidecode(word)
 
 
-# Fourth step
+# Fifth step
 def remove_stop_words(word: str) -> str:
 
     if word is None:
@@ -51,18 +65,6 @@ def remove_stop_words(word: str) -> str:
             return word.title()
         else:
             return word
-
-    return None
-
-
-# Fifth step
-def check_if_first_name(word: str) -> str:
-
-    if word is None:
-        return None
-
-    if word[0].isupper() or word.lower() in first_names:
-        return word.title()
 
     return None
 
@@ -101,6 +103,18 @@ def check_if_archaic(word: str) -> str:
 
     for archaism in archaisms:
         if word in archaism:
-            return archaism[1]
+            return archaism[0]
+
+    return None
+
+
+# Ninth step
+def check_if_first_name(word: str) -> str:
+
+    if word is None:
+        return None
+
+    if word[0].isupper() or word.lower() in first_names:
+        return word.title()
 
     return None

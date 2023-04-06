@@ -5,6 +5,8 @@ from time import time
 
 from lib import *
 
+debug_mode = True
+
 final_words = []
 trash_words = []
 leftover_words = []
@@ -27,56 +29,56 @@ for file_name in os.listdir(path):
 
         for word in words:
 
-            first_step = remove_special_characters(word)
+            first_step = check_hyphens(word)
             if first_step is None:
-                if first_step:
+                continue
+
+            second_step = remove_special_characters(first_step)
+            if second_step is None:
+                if second_step:
                     trash_words.append((word, "1"))
                 continue
 
-            second_step = check_if_short_word(first_step)
-            if second_step is None:
+            third_step = check_if_short_word(second_step)
+            if third_step is None:
                 trash_words.append((word, "2"))
                 continue
 
-            third_step = remove_accents(second_step)
-            if third_step is None:
+            fourth_step = remove_accents(second_step)
+            if fourth_step is None:
                 continue
 
-            fourth_step = remove_stop_words(third_step)
-            if fourth_step is None:
+            fifth_step = remove_stop_words(third_step)
+            if fifth_step is None:
                 trash_words.append((word, "4"))
                 continue
 
-            if fourth_step[0].isupper():
-                final_words.append((word, fourth_step))
-                continue
+            fifth_step_lower = fifth_step.lower()
 
-            fifth_step = check_if_first_name(fourth_step)
-            if fifth_step is not None:
-                final_words.append((word, fifth_step))
-                continue
-
-            fourth_step = fourth_step.lower()
-
-            sixth_step = check_if_substantive(fourth_step)
+            sixth_step = check_if_substantive(fifth_step_lower)
             if sixth_step is not None:
                 final_words.append((word, sixth_step))
                 continue
 
-            seventh_step = check_if_verb(fourth_step)
+            seventh_step = check_if_verb(fifth_step_lower)
             if seventh_step is not None:
                 final_words.append((word, seventh_step))
                 continue
 
-            eighth_step = check_if_archaic(fourth_step)
+            eighth_step = check_if_archaic(fifth_step_lower)
             if eighth_step is not None:
                 final_words.append((word, eighth_step))
                 continue
 
-            leftover_words.append((word, fourth_step))
+            ninth_step = check_if_first_name(fifth_step)
+            if ninth_step is not None:
+                final_words.append((word, ninth_step))
+                continue
 
-        save_file(file_name, "final_words", final_words)
-        save_file(file_name, "leftover_words", leftover_words)
-        save_file(file_name, "trash_words", trash_words)
+            leftover_words.append((word, fifth_step))
+
+        save_file(file_name, "final", final_words, debug=debug_mode)
+        save_file(file_name, "leftover", leftover_words, debug=debug_mode)
+        save_file(file_name, "trash", trash_words, debug=debug_mode)
 
         print(f"Elapsed time: {time() - start_time} seconds")
