@@ -1,0 +1,195 @@
+Afeganistão;Cabul;afegão;afegã;afegãs;afegãos
+África do Sul;Pretória;sul-africano;sul-africana;sul-africanas;sul-africanos
+Albânia;Tirana;albanês;albanesa;albanesas;albaneses
+Alemanha;Berlim;alemão;alemã;alemãs;alemães
+Andorra;andorrano;andorrana;andorranas;andorranos
+Angola;Luanda;angolano;angolana;angolanas;angolanos
+Antígua e Barbuda;Saint Johns;antiguano;antiguana;antiguanas;antiguanos
+Arábia Saudita;Riade;saudita;sauditas
+Argélia;Argel;argelino;argelina;argelinas;argelinos
+Argentina;Buenos Aires;argentino;argentina;argentinas;argentinos
+Armênia;Ierevan;armênio;armênia;armênias;armênios
+Austrália;Camberra;australiano;australiana;australianas;australianos
+Áustria;Viena;austríaco;austríaca;austríacas;austríacos
+Azerbaijão;Baku;azerbaijano;azerbaijana;azerbaijanas;azerbaijanos
+Bahamas;Nassau;bahamense;bahamenses
+Bangladesh;Daca;bangladês;bangladense;bangladesa;bangladesas;bangladeses;bangladenses
+Barbados;Bridgetown;barbadiano;barbadiana;barbadianas;barbadianos
+Bahrein;Manama;bahreinita;bahreinitas
+Bélgica;Bruxelas;belga;belgas
+Belize;Belmopan;belizenho;belizenha;belizenhas;belizenhos
+Benim;Porto Novo;beninês;beninesa;beninesas;benineses
+Belarus;Minsk;belarusso;belarussa;belarussas;belarussos
+Bolívia;La Paz;boliviano;boliviana;bolivianas;bolivianos
+Bósnia;Sarajevo;bósnio;bósnia;bósnias;bósnios
+Botsuana;Gaborone;botsuanês;botsuanesa;botsuanesas;botsuaneses
+Brasil;Brasília;brasileiro;brasileira;brasileiras;brasileiros
+Brunei;Bandar;bruneíno;bruneína;bruneínas;bruneínos
+Bulgária;Sófia;búlgaro;búlgara;búlgaras;búlgaros
+Burkina Faso;Uagadugu;burkinabé;burkineonse;burkineonses;burkinabés
+Burundi;Bujumbura;burundês;burundesa;burundesas;burundeses
+Butão;Thimphu;butanês;butanesa;butanesas;butaneses
+CaboVerde;Praia;cabo-verdiano;cabo-verdiana;cabo-verdianas;cabo-verdianos
+Camarões;Iaundê;camerounês;camerounesa;camerounesas;camerouneses
+Camboja;Phnom Penh;cambojano;cambojana;cambojanas;cambojanos
+Catar;Doha;catariano;catariana;catarianas;catarianos
+Canadá;Ottawa;canadense;canadenses
+Cazaquistão;Nursultan;cazaque;cazaques;cazaques
+Chade;N'Djamena;chadiano;chadiana;chadianas;chadianos
+Chile;Santiago;chileno;chilena;chilenas;chilenos
+China;Pequim;chinês;chinesa;chinesas;chineses
+Chipre;Nicósia;cipriota;cipriotas
+Colômbia;Bogotá;colombiano;colombiana;colombianas;colombianos
+Comores;Moroni;comoriano;comoriana;comorianas;comorianos
+República do Congo;Brazzaville;congolês;congolesa;congolesas;congoleses
+Congo Kinshasa;Kinshasa;congolês;congolesa;congolesas;congoleses
+Coreia do Sul;Seul;sul-coreano;sul-coreana;sul-coreanas;sul-coreanos
+Coreia do Norte;Pyongyang;norte-coreano;norte-coreana;norte-coreanas;norte-coreanos
+Costa do Marfim;Yamoussoukro;costa-marfinense;marfinense;costa-marfinenses;marfinenses
+Costa Rica;São José;costa-ricense;costa-ricenses
+Croácia;Zagreb;croata;croatas
+Cuba;Havana;cubano;cubana;cubanas;cubanos
+Dinamarca;Copenhague;dinamarquês;dinamarquesa;dinamarquesas;dinamarqueses
+Djibouti;Djibouti;djiboutiano;djiboutiana;djiboutianas;djiboutianos
+Dominica;Roseau;dominiquense;dominiquenses
+Egito;Cairo;egípcio;egípcia;egípcias;egípcios
+El Salvador;São Salvador;salvadorenho;salvadorenha;salvadorenhas;salvadorenhos
+Emirados Árabes;Abu Dhabi;emirático;emiradense;emirática;emiradenses;emiráticas;emiráticos
+Equador;Quito;equatoriano;equatoriana;equatorianas;equatorianos
+Eritreia;Asmara;eritreu;eritréia;eritréias;eritreus
+Eslováquia;Bratislava;eslovaco;eslovaca;eslovacas;eslovacos
+Eslovênia;Liubliana;esloveno;eslovena;eslovenas;eslovenos
+Espanha;Madri;espanhol;espanhol;espanholas;espanhois
+Estados Unidos;Washington;estadunidense norte-americano;norte-americana;norte-americanas;estadunidenses;norte-americanos
+Estônia;Talin;estoniano;estoniana;estonianas;estonianos
+Etiópia;AdisAbeba;etíope;etíope;etíopes;etíopes
+Fiji;Suva;fijiano;fijiana;fijianas;fijianos
+Filipinas;Manila;filipino;filipina;filipinas;filipinos
+Finlândia;Helsinque;finlandês;finlandesa;finlandesas;finlandeses
+França;Paris;francês;francesa;francesas;franceses
+Gabão;Libreville;gabonês;gabonesa;gabonesas;gaboneses
+Gâmbia;Banjul;gambiano;gambiana;gambianas;gambianos
+Gana;Acra;ganês;ganês ganense;ganesas ganenses;ganeses
+Geórgia;Tbilisi;georgiano;georgiana;georgianas;georgianos
+Granada;Saint George's;granadino;granadina;granadinas;granadinos
+Grécia;Atenas;grego;grega;gregas;gregos
+Guatemala;guatemalteco;guatemalteca;guatemaltecas;guatemaltecos
+Guiana;Georgetown;guianês;guianesa;guianesas;guianeses
+Guiné;Conacri;guineense;guineenses;
+Guiné Bissau;Bissau;bissau-guineense;guineense;guineenses;bissau-guineenses
+Guiné Equatorial;Malabo;equato-guineense;equato-guineenses
+Haiti;Porto Príncipe;haitiano;haitiana;haitianas;haitianos
+Honduras;Tegucigalpa;hondurenho;hondurenha;hondurenhas;hondurenhos
+Hungria;Budapeste;húngaro;húngara;húngaras;húngaros
+Iêmen;Sanaa;iemenita;iemenitas
+Ilhas Cook;Avarua;cookiano;cookiana;cookianas;cookianos
+Ilhas Marshall;Majuro;marshallês;marshallesa;marshallesas;marshalleses
+Ilhas Salomão;Honiara;salomonense;salomonenses
+Índia;Nova Delhi;indiano;indiana;indianas;indianos
+Indonésia;Jacarta;indonésio;indonésia;indonésias;indonésios
+Irã;Teerã;iraniano;iraniana;iranianas;iranianos
+Iraque;Bagdá;Bagdád;iraquiano;iraquiana;iraquianas;iraquianos
+Irlanda;Dublin;irlandês;irlandesa;irlandesas;irlandeses
+Islândia;Reiquiavique;islandês;islandesa;islandesas;islandeses
+Israel;Jerusalém;hierosolimitana hierosolimitanas jerosolimitano ;jerosolimitana jerosolimitanas jerosolimitanos;jerosolimitas ;hierosolimitanos hierosolimitas;israelense;israelenses;hierosolimitana hierosolimitanas ;jerosolimitano jerosolimitana ;jerosolimitanas ;jerosolimitanos ;jerosolimitas ;hierosolimitanos ;hierosolimitas
+Jamaica;Kingston;jamaicano;jamaicana;jamaicanas;jamaicanos
+Japão;Tóquio;japonês;japonesa;japonesas;japoneses
+Jordânia;Amã;jordaniano;jordaniana;jordanianas;jordanianos
+Kiribati;Tarawa;kiribatiano;kiribatiana;kiribatianas;kiribatianos
+Kuwait;Cidade do Kuwait;kuwaitiano;kuwaitiana;kuwaitianas;kuwaitianos
+Laos;Vientiane;laosiano;laosiana;laosianas;laosianos
+Lesoto;Maseru;lesotiano;lesotiana;lesotianas;lesotianos
+Letônia;Riga;letão;letã;letãs;letãos
+Líbano;Beirute;libanês;libanesa;libanesas;libaneses
+Libéria;Monróvia;liberiano;liberiana;liberianas;liberianos
+Líbia;Trípoli;líbio;líbia;líbias;líbios
+Liechtenstein;Vaduz;liechtensteiniano;liechtensteiniana;liechtensteinianas;liechtensteinianos
+Lituânia;Vilnius;lituano;lituana;lituanas;lituanos
+Luxemburgo;Luxemburgo;luxemburguês;luxemburguesa;luxemburguesas;luxemburgueses
+Macedônia;Skopje;macedônio;macedônia;macedônias;macedônios
+Madagascar;Antananarivo;madagascarense;madagascarenses
+Malásia;Kuala Lumpur;malásio;malásia;malásias;malásios
+Malawi;Lilongwe;malawiano;malawiana;malawianas;malawianos
+Maldivas;Malé;maldivo;maldiva;maldivas;maldivos
+Mali;Bamako;maliano;maliana;malianas;malianos
+Malta;Valletta;maltês;maltesa;maltesas;malteses
+Marrocos;Rabat;marroquino;marroquina;marroquinas;marroquinos
+Maurício;Port Louis;mauriciano;mauriciana;mauricianas;mauricianos
+Mauritânia;Nouakchott;mauritano;mauritana;mauritanas;mauritanos
+México;Cidade do México;mexicano;mexicana;mexicanas;mexicanos
+Myanmar;Nay Pyi Taw, Yangon;myanmarense;myanmarenses
+Micronésia;Palikir;micronésio;micronésia;micronésias;micronésios
+Moçambique;Maputo;moçambicano;moçambicana;moçambicanas;moçambicanos
+Moldova;Chisinau;moldovo;moldova;moldovas;moldovos
+Mônaco;monegasco;monegasca;monegascas;monegascos
+Mongólia;Ulan Bator;mongol;mongol;mongols;mongóis
+Montenegro;Podgorica;montenegrino;montenegrina;montenegrinas;montenegrinos
+Namíbia;Windhoek;namibiano;namibiana;namibianas;namibianos
+Nauru;Yaren;nauruano;nauruana;nauruanas;nauruanos
+Nepal;Katmandu;nepalês;nepalesa;nepalesas;nepaleses
+Nicarágua;Manágua;nicaraguense;nicaraguenses
+Níger;Niamey;nigerino;nigerina;nigerinas;nigerinos
+Nigéria;Abuja;nigeriano;nigeriana;nigerianas;nigerianos
+Niue;Alofi;niuiano;niuiana;niuianas;niuianos
+Noruega;Oslo;norueguês;norueguesa;norueguesas;noruegueses
+Nova Zelândia;Wellington;neozelandês;neozelandesa;neozelandesas;neozelandeses
+Omã;Mascate;omani;omani;omanis;omanis
+Países Baixos;Amsterdã;neerlandês;neerlandesa;neerlandesas;neerlandeses
+Palau;Melekeok;palauano;palauana;palauanas;palauanos
+Palestina;Jerusalém Leste;palestino;palestina;palestinas;palestinos
+Panamá;Cidade do Panamá;panamenho;panamenha;panamenhas;panamenhos
+Papua Nova Guiné;Port Moresby;papua;papuásio;papuásia;papuas;papuásias;papuásios
+Paquistão;Islamabade;paquistanês;paquistanesa;paquistanesas;paquistaneses
+Paraguai;Assunção;paraguaio;paraguaia;paraguaias;paraguaios
+Peru;Lima;peruano;peruana;peruanas;peruanos
+Polônia;Varsóvia;polonês;polaco;polonês;polaca;polonesas;polacas;poloneses;polacos
+Portugal;Lisboa;português;portuguesa;portuguesas;portugueses
+Quênia;Nairóbi;queniano;queniana;quenianas;quenianos
+Quirguistão;Bisqueque;quirguiz;quirguiz;quirguizs;quirguizes
+Reino Unido;Londres;britânico;britânica;britânicas;britânicos
+República Centro-Africana;Bangui;centro-africano;centro-africana;centro-africanas;centro-africanos
+República Tcheca;Praga;tcheco;tcheca;tchecas;tchecos
+República Dominicana;São Domingos;dominicano;dominicana;dominicanas;dominicanos
+Romênia;Bucareste;romeno;romena;romenas;romenos
+Ruanda;Kigali;ruandês;ruandesa;ruandesas;ruandeses
+Rússia;Moscou;russo;russa;russas;russos
+Samoa;Apia;samoano;samoana;samoanas;samoanos
+Santa Lúcia;Castries;santa-lucense;santa-lucenses
+São Cristóvão Nevis;Basseterre;sã-cristovense;sã-cristovenses;
+San Marino;San Marino;samarinês;samarinesa;samarinesas;samarineses
+São Tomé e Príncipe;São Tomé;santomense;santomenses;
+São Vicente e Granadinas;Kingstown;são-vicentino;sã-vicentina;sã-vicentinas;são-vicentinos
+Seicheles;Victoria;seichelense;seichelense;seichelenses;seichelense
+Senegal;Dacar;senegalês;senegalesa;senegalesas;senegaleses
+Sérvia;Belgrado;sérvio;sérvia;sérvias;sérvios
+Singapura;Singapura;singapurense;singapurenses
+Síria;Damasco;sírio;síria;sírias;sírios
+Somália;Mogadíscio;somaliano, somali;somaliano;somali;somalianas;somalis;somalianos;somalis
+Sri Lanka;Colombo Kotte;sri-lankês;sri-lankesa;sri-lankesas;sri-lankeses
+Suazilândia;Mbabane;suázi;suázi;suázis;suázi
+Sudão;Cartum;sudanês;sudanesa;sudanesas;sudaneses
+Sudão do Sul;Juba;sul-sudanês;sul-sudanesa;sul-sudanesas;sul-sudaneses
+Suécia;Estocolmo;sueco;sueca;suecas;suecos
+Suíça;Berna;suíço;suíça;suíças;suíços
+Suriname;Paramaribo;surinamês;surinamesa;surinamesas;surinameses
+Tajiquistão;Dushambe;tajique;tajique;tajiques;tajiques
+Tailândia;Bangkok;tailandês;tailandesa;tailandesas;tailandeses
+Tanzânia;Dodoma;tanzaniano;tanzaniana;tanzanianas;tanzanianos
+Timor-Leste;Díli;timorense;timorenses
+Togo;Lomé;togolês;togolesa;togolesas;togoleses
+Tonga;Nuku alofa;tonganês;tonganesa;tonganesas;tonganeses
+Trinidad e Tobago;Port of Spain;trinitário;trinitária;trinitárias;trinitários
+Tunísia;Túnis;tunisiano;tunisiana;tunisianas;tunisianos
+Turcomenistão;Ashgabat;turcomeno;turcomena;turcomenas;turcomenos
+Turquia;Ancara;turco;turca;turcas;turcos
+Tuvalu;Funafuti;tuvaluano;tuvaluana;tuvaluanas;tuvaluanos
+Ucrânia;Kiev;ucraniano;ucraniana;ucranianas;ucranianos
+Uganda;Kampala;ugandês;ugandesa;ugandesas;ugandeses
+Uruguai;Montevidéu;uruguaio;uruguaia;uruguaias;uruguaios
+Uzbequistão;Tashkent;uzbeque;uzbeque;uzbeques;uzbeques
+Vanuatu;Port Vila;vanuatuense;vanuatuenses
+Vaticano;Cidade do Vaticano;vaticano;vaticana;vaticanas;vaticanos
+Venezuela;Caracas;venezuelano;venezuelana;venezuelanas;venezuelanos
+Vietnã;Hanói;vietnamita;vietnamitas
+Zâmbia;Lusaca;zambiano;zambiana;zambianas;zambianos
+Zimbábue;Harare;zimbabueano;zimbabueana;zimbabueanas;zimbabueanos

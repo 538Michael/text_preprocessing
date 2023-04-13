@@ -4,26 +4,14 @@ from unidecode import unidecode
 
 from .files import *
 
+translation_table = str.maketrans(
+    "", "", "\u0300-\u0305\u0307-\u036F\u1AB0-\u1AFF\u1DC0-\u1DFF"
+)
+
 # from spacy.lang.pt.stop_words import STOP_WORDS
 
-# First step
-def check_hyphens(word: str) -> list:
 
-    if word is None:
-        return None
-
-    if "-" in word[:2]:
-        word = word[:2].replace("-", "") + word[2:]
-
-    if "-" in word[-3:]:
-        word = word[:-3] + word[-3:].replace("-", "")
-
-    return word
-
-
-# Second step
 def remove_special_characters(word: str) -> str:
-
     if word is None:
         return None
 
@@ -33,9 +21,7 @@ def remove_special_characters(word: str) -> str:
     return word
 
 
-# Third step
 def check_if_short_word(word: str) -> bool:
-
     if word is None:
         return None
 
@@ -45,33 +31,67 @@ def check_if_short_word(word: str) -> bool:
     return word
 
 
-# Fourth step
 def remove_accents(word: str) -> str:
-
     if word is None:
         return None
 
     return unidecode(word)
 
 
-# Fifth step
-def remove_stop_words(word: str) -> str:
+def indexes(string: str):
+    return [i for i in range(len(string)) if string[i] == "-"]
 
+
+def check_hyphens(word: str) -> list:
     if word is None:
         return None
 
-    if word.lower() not in stop_words:
+    try:
+        index = word.index("-")
+        rindex = word.rindex("-")
+    except ValueError:
+        return word
+
+    first_check = index in [0, 1]
+    second_check = rindex in [len(word) - 1, len(word) - 2]
+
+    if first_check and second_check:
+        word = word[(index + 1) : rindex]
+    elif first_check:
+        word = word[(index + 1) :]
+    elif second_check:
+        word = word[:rindex]
+
+    word_lower = word.lower()
+
+    for suffix in ["-" + suffix for suffix in suffixes]:
+        if word_lower.endswith(suffix):
+            word = word[: -len(suffix)]
+
+    pattern = "|".join(map(re.escape, ["-" + suffix + "-" for suffix in suffixes]))
+    match = re.search(pattern, word_lower)
+    if match:
+        word = word[: match.start()]
+
+    return word
+
+
+def remove_stop_words(word: str) -> str:
+    if word is None:
+        return None
+
+    word_lower = word.lower()
+
+    if word_lower not in stop_words:
         if word[0].isupper():
-            return word.title()
+            return word_lower.capitalize()
         else:
             return word
 
     return None
 
 
-# Sixth step
 def check_if_substantive(word: str) -> str:
-
     if word is None:
         return None
 
@@ -82,9 +102,7 @@ def check_if_substantive(word: str) -> str:
     return None
 
 
-# Seventh step
 def check_if_verb(word: str) -> str:
-
     if word is None:
         return None
 
@@ -95,9 +113,7 @@ def check_if_verb(word: str) -> str:
     return None
 
 
-# Eighth step
 def check_if_archaic(word: str) -> str:
-
     if word is None:
         return None
 
@@ -108,13 +124,23 @@ def check_if_archaic(word: str) -> str:
     return None
 
 
-# Ninth step
 def check_if_first_name(word: str) -> str:
-
     if word is None:
         return None
 
     if word[0].isupper() or word.lower() in first_names:
         return word.title()
+
+    return None
+
+
+def check_if_gentile(word: str) -> str:
+    if word is None:
+        return None
+
+    for line in getiles:
+        for gentile in line[2:]:
+            if word == unidecode(gentile):
+                return line[:3]
 
     return None
