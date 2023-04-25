@@ -7,16 +7,16 @@ from lib import *
 
 debug_mode = True
 
-final_words = []
-trash_words = []
-leftover_words = []
-
 path = "./txt_to_be_processed"
 
 for file_name in os.listdir(path):
     with codecs.open(
         f"{path}/{file_name}", "r", encoding="utf-8-sig", errors="ignore"
     ) as file:
+        final_words = []
+        trash_words = []
+        leftover_words = []
+
         text = file.read()
         # \(\)\[\]\{\}
         delimiters = r"[\s.?!,:;\'\"…]"
