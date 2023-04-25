@@ -38,10 +38,6 @@ def remove_accents(word: str) -> str:
     return unidecode(word)
 
 
-def indexes(string: str):
-    return [i for i in range(len(string)) if string[i] == "-"]
-
-
 def check_hyphens(word: str) -> list:
     if word is None:
         return None
@@ -95,9 +91,10 @@ def check_if_substantive(word: str) -> str:
     if word is None:
         return None
 
-    for substantive in substantives:
-        if word in substantive:
-            return substantive[0]
+    for line in substantives:
+        for substantive in line:
+            if word == unidecode(substantive):
+                return substantive
 
     return None
 
@@ -106,9 +103,10 @@ def check_if_verb(word: str) -> str:
     if word is None:
         return None
 
-    for verb in verbs:
-        if word in verb:
-            return verb[0]
+    for line in verbs:
+        for verb in line:
+            if word == unidecode(verb):
+                return verb
 
     return None
 
@@ -117,9 +115,10 @@ def check_if_archaic(word: str) -> str:
     if word is None:
         return None
 
-    for archaism in archaisms:
-        if word in archaism:
-            return archaism[0]
+    for line in archaisms:
+        for archaism in line:
+            if word == unidecode(archaism):
+                return archaism
 
     return None
 
@@ -138,7 +137,7 @@ def check_if_gentile(word: str) -> str:
     if word is None:
         return None
 
-    for line in getiles:
+    for line in gentiles:
         for gentile in line[2:]:
             if word == unidecode(gentile):
                 return line[:3]

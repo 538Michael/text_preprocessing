@@ -34,4 +34,4 @@ with open("./txts/gentilicos_mundiais.txt", "r", encoding="utf-8-sig") as file:
     international_gentiles = [word.strip().split(";") for word in file.readlines()]
     file.close()
 
-getiles = national_gentiles + international_gentiles
+gentiles = national_gentiles + international_gentiles
