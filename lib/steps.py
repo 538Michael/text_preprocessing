@@ -24,7 +24,7 @@ def remove_special_characters(word: str) -> str:
     return word
 
 
-def check_if_short_word(word: str) -> bool:
+def remove_short_words(word: str) -> bool:
     if word is None or len(word) == 0:
         return None
 
@@ -44,7 +44,7 @@ def remove_accents(word: str) -> str:
     return unidecode(word)
 
 
-def check_hyphens(word: str) -> list:
+def remove_hyphens(word: str) -> list:
     if word is None or len(word) == 0:
         return None
 
