@@ -15,7 +15,7 @@ abacacia abacacias
 abaciamento abaciamentos
 abacisco abaciscos
 abacista abacistas
-abaco abacos
+ábaco ábacos
 abacto abactos
 abactor abactores
 abaculo abaculos
@@ -48,7 +48,7 @@ abaixa-luz abaixa-luz
 abaixamento abaixamentos
 abaixante abaixantes
 abaixa-palpebra abaixa-palpebra
-abaixa-voz abaixa-voz
+abaixa-voz abaixa-vozes
 abaixo-assinado abaixo-assinado
 abajeru abajerus
 abajoujamento abajoujamentos
@@ -152,7 +152,7 @@ abencoamento abencoamentos
 abepjtimia abepjtimias
 aberem aberens
 aberração aberrações
-aberrancia aberrancias
+aberrânciaaberrancias
 aberta abertas
 abertão abertões
 aberteira aberteiras
@@ -219,8 +219,8 @@ aboamento aboamentos
 abobada abobadas
 abobadilha abobadilhas
 abobora aboboras
-abobora-d'agua abobora-d'agua
-abobora-d'anta abobora-d'anta
+abóbora-d'agua abóboras-d'agua
+abóbora-d'anta abóbora-d'anta
 aboboral aboborais
 aboboreira aboboreiras
 abobrinha abobrinhas
@@ -293,10 +293,10 @@ abrandura abranduras
 abrangimento abrangimentos
 abranquidas abranquidases
 abrantino abrantinos
-abraquia abraquias
-abraquio abraquios
+abráquia abráquias
+abráquio abráquios
 abraquiocefalia abraquiocefalias
-abranquiocefalo abranquiocefalos
+abranquiocéfalo abranquiocéfalos
 abrasador abrasadores
 abrasadura abrasaduras
 abrasamento abrasamentos
@@ -421,11 +421,12 @@ absintoso absintosos
 absisterio absisterios
 absogro absogros
 absolução absoluções
+absoluto absolutos absoluta absolutas
 absolutismo absolutismos
 absolutista absolutistas
 absolvição absolvições
 absolvimento absolvimentos
-absonancia absonancias
+absonânciaabsonancias
 absorção absorções
 absorvedor absorvedores
 absorvedouro absorvedouros
@@ -451,7 +452,7 @@ absurdo absurdos
 abulia abulias
 abuna abunas
 abuna abunas
-abundancia abundancias
+abundânciaabundancias
 abundeza abundezas
 abundidade abundidades
 abunhação abunhações
@@ -472,8 +473,6 @@ abutre abutres
 abutre-fusco abutre-fusco
 abutreiro abutreiros
 abutua abutuas
-aca acas
-aca acas
 acabador acabadores
 acabamento acabamentos
 acaba-novenas acaba-novenas
@@ -995,7 +994,7 @@ adivinhadeiro adivinhadeiros
 adivinhador adivinhadores
 adivinhão adivinhões
 adivinho adivinhos
-adjacência adjacências
+adjacência adjacências adjacente adjacentes
 adjeção adjeções
 adjetivação adjetivações
 adjetivamento adjetivamentos
@@ -1017,7 +1016,7 @@ admirador admiradores
 admissão admissões
 admissibilidade admissibilidades
 admistão admistões
-admitancia admitancias
+admitânciaadmitancias
 admoestação admoestações
 admonitor admonitores
 admonitório admonitórios
@@ -1805,7 +1804,6 @@ alfabetação alfabetações
 alfabetador alfabetadores
 alfabetamento alfabetamentos
 alfabetização alfabetizações
-alfabetizam alfabetizans
 alfabeto alfabetos
 alfacal alfacais
 alface alfaces
@@ -1818,7 +1816,7 @@ alfaiata alfaiatas
 alfaiataria alfaiatarias
 alfaiate alfaiates
 alfama alfamas
-alfandega alfandegas
+alfândega alfândegas
 alfandegagem alfandegagens
 alfandegamento alfandegamentos
 alfandegueiro alfandegueiros
@@ -1828,7 +1826,7 @@ alfaque alfaques
 alfaqui alfaquis
 alfaquim alfaquins
 alfaraz alfarazes
-alfarrabio alfarrabios
+alfarrábio alfarrábios
 alfarrabista alfarrabistas
 alfarroba alfarrobas
 alfarrobal alfarrobais
@@ -2147,7 +2145,7 @@ alteração alterações
 altercação altercações
 alternação alternações
 alternador alternadores
-alternancia alternancias
+alternânciaalternancias
 alternativa alternativas
 alteza altezas
 altibaixos altibaixoses
@@ -2336,7 +2334,7 @@ ambrosiano ambrosianos
 ambrosnato ambrosnatos
 ambula ambulas
 ambulacro ambulacros
-ambulancia ambulancias
+ambulânciaambulancias
 ambulatório ambulatórios
 ambundo ambundos
 ambustão ambustões
@@ -2620,7 +2618,7 @@ ancestralidade ancestralidades
 ancestre ancestres
 anchova anchovas
 anchura anchuras
-ancia ancias
+ânciaancias
 anciania ancianias
 ancianidade ancianidades
 ancião anciões
@@ -3375,6 +3373,7 @@ aprendizagem aprendizagens
 apresador apresadores
 apresamento apresamentos
 apresentação apresentações
+apresentado apresentados apresentada apresentadas
 apresentante apresentantes
 apresso apressos
 apressuramento apressuramentos
@@ -3772,14 +3771,14 @@ aristotelico aristotelicos
 aristotelismo aristotelismos
 ariti aritis
 ariti aritis
-aritmancia aritmancias
+aritmânciaaritmancias
 aritmante aritmantes
 aritmetica aritmeticas
 aritmetico aritmeticos
 aritmografia aritmografias
 aritmografo aritmografos
 aritmologia aritmologias
-aritmomancia aritmomancias
+aritmomânciaaritmomancias
 aritmomante aritmomantes
 aritmometro aritmometros
 arlequim arlequins
@@ -4043,7 +4042,7 @@ arrocinador arrocinadores
 arrofo arrofos
 arrogação arrogações
 arrogador arrogadores
-arrogancia arrogancias
+arrogânciaarrogancias
 arroio arroios
 arrojadita arrojaditas
 arrojador arrojadores
@@ -4101,14 +4100,13 @@ arses arseses
 arsis arsises
 arsonvalização arsonvalizações
 arte artes
-artefato artefatos
-artefacto artefactos
+artefato artefatos artefacto artefactos
 arteirice arteirices
 artelete arteletes
 artelho artelhos
 artemão artemãos
 artemisia artemisias
-arteria arterias
+artéria artérias
 arterialização arterializações
 arteriografia arteriografias
 arteriola arteriolas
@@ -4277,7 +4275,7 @@ asperula asperulas
 aspidospermo aspidospermos
 aspiração aspirações
 aspirador aspiradores
-aspirancia aspirancias
+aspirânciaaspirancias
 aspirante aspirantes
 aspirina aspirinas
 asplinio asplinios
@@ -4390,7 +4388,7 @@ assombramento assombramentos
 assombreamento assombreamentos
 assombro assombros
 assomo assomos
-assonancia assonancias
+assonânciaassonancias
 assopradela assopradelas
 assoprador assopradores
 assopradura assopraduras
@@ -4747,7 +4745,7 @@ autofilia autofilias
 autogamia autogamias
 autogiro autogiros
 autografia autografias
-autografo autografos
+autógrafo autógrafos
 auto-hemoterapia auto-hemoterapia
 autolatra autolatras
 autolatria autolatrias
@@ -4755,6 +4753,7 @@ automatismo automatismos
 autômato autômatos
 automedonte automedontes
 automobilismo automobilismos
+automobilístico automobilísticos automobilística automobilísticas
 automobiusta automobiustas
 automotriz automotrizes
 automóvel automóveis
@@ -5749,8 +5748,8 @@ belida belidas
 beligerancia beligerancias
 beliquete beliquetes
 beliscadura beliscaduras
-belisção belisções
-beliscão-de-frade beliscão-de-frade
+beliscão belisções
+beliscão-de-frade beliscões-de-frade
 belisco beliscos
 belona belonas
 belonave belonaves
@@ -5763,8 +5762,8 @@ belvedere belvederes
 belver belveres
 belzebu belzebus
 bem bens
-bem-aventurado bem-aventurado
-bem-aventuranca bem-aventuranca
+bem-aventurado bem-aventurados
+bem-aventurança bem-aventuranças
 bembe bembes
 bem-estar bem-estar
 bem-me-quer bem-me-quer
@@ -5780,6 +5779,7 @@ beneficiador beneficiadores
 beneficiamento beneficiamentos
 beneficiário beneficiários
 benefício benefícios
+benéfico benéficos benéfica benéficas
 benemerência benemerências
 beneplacito beneplacitos
 benesse benesses
@@ -6670,7 +6670,7 @@ brigadeiro brigadeiros
 brigalhada brigalhadas
 brigalhão brigalhões
 brigue brigues
-brilhancia brilhancias
+brilhânciabrilhancias
 brilhante brilhantes
 brilhantina brilhantinas
 brilhantismo brilhantismos
@@ -7705,13 +7705,13 @@ canicultura caniculturas
 canifraz canifrazes
 canil canis
 caninana caninanas
-caninde canindes
+canindé canindés
 caninha caninhas
 caninha-verde caninha-verde
 canino caninos
 canistrel canistreis
 canitar canitares
-canivetaco canivetacos
+canivetaço canivetaços
 canivete canivetes
 canja canjas
 canjarana canjaranas
@@ -7749,7 +7749,7 @@ cantata cantatas
 cantatriz cantatrizes
 canteira canteiras
 canteiro canteiros
-cantico canticos
+cântico cânticos
 cantiga cantigas
 cantil cantis
 cantilena cantilenas
@@ -7759,7 +7759,7 @@ cantineiro cantineiros
 canto cantos
 cantochão cantochões
 cantoneira cantoneiras
-cantor cantores
+cantor cantores cantora cantoras
 cantoria cantorias
 canudo canudos
 canula canulas
@@ -7833,7 +7833,7 @@ capitão capitaes
 capitão-de-corveta capitaes-de-corveta
 capitão-de-fragata capitaes-de-fragata
 capitão-de-mar-e-guerra capitaes-de-mar-e-guerra
-capitão-do-campo capitaes-do-campo
+capitão-do-campo capitães-do-campo
 capitão-mor capitaes-mor
 capitel capiteis
 capitiluvio capitiluvios
@@ -7853,13 +7853,13 @@ capotagim capotagins
 capote capotes
 capotilho capotilhos
 capricho caprichos
-capricornio capricornios
+capricórnio capricórnios
 caprifoliacea caprifoliaceas
 capro capros
 capsela capselas
 capsula capsulas
 captação captações
-captador captadores
+captador captadores captadora captadoras
 captagem captagens
 captor captores
 captura capturas
@@ -8107,7 +8107,7 @@ carneira carneiras
 carneirada carneiradas
 carneireiro carneireiros
 carneiro carneiros
-carnica carnicas
+carniça carniças
 carnição carnições
 carnicaria carnicarias
 carniceiro carniceiros
@@ -9345,7 +9345,7 @@ circunlocução circunlocuções
 circunloquio circunloquios
 circunscrição circunscrições
 circunspeção circunspeções
-circunstancia circunstancias
+circunstânciacircunstancias
 circunstante circunstantes
 circunvalação circunvalações
 circunvizinhanca circunvizinhancas
@@ -9827,7 +9827,7 @@ colza colzas
 coma comas
 comadre comadres
 comandaiba comandaibas
-comandancia comandancias
+comandânciacomandancias
 comandante comandantes
 comandita comanditas
 comanditário comanditários
@@ -9894,7 +9894,7 @@ comicidade comicidades
 comício comícios
 comida comidas
 comilanca comilancas
-comilancia comilancias
+comilânciacomilancias
 comilão comilões
 cominação cominações
 cominador cominadores
@@ -10011,7 +10011,7 @@ comprovante comprovantes
 compulsação compulsações
 compulsador compulsadores
 compulsão compulsões
-compulsoria compulsorias
+compulsória compulsórias
 compunção compunções
 compungimento compungimentos
 computação computações
@@ -10025,7 +10025,7 @@ comungatório comungatórios
 comunhão comunhões
 comunicabilidade comunicabilidades
 comunicação comunicações
-comunicado comunicados
+comunicado comunicados comunicada comunicadas
 comunicador comunicadores
 comunidade comunidades
 comunismo comunismos
@@ -10076,8 +10076,8 @@ conclave conclaves
 conclavista conclavistas
 concluimento concluimentos
 conclusão conclusões
-concomitancia concomitancias
-concordancia concordancias
+concomitânciaconcomitancias
+concordânciaconcordancias
 concordata concordatas
 concordatário concordatários
 concordia concordias
@@ -10131,7 +10131,7 @@ condroma condromas
 condução conduções
 condurango condurangos
 conduta condutas
-condutancia condutancias
+condutânciacondutancias
 condutibilidade condutibilidades
 conduto condutos
 condutor condutores
@@ -10147,8 +10147,7 @@ confeccionador confeccionadores
 confederação confederações
 confeição confeições
 confeitaria confeitarias
-confeiteira confeiteiras
-confeiteiro confeiteiros
+confeiteiro confeiteiros confeiteira confeiteiras
 confeito confeitos
 conferência conferências
 conferenciador conferenciadores
@@ -10157,7 +10156,7 @@ confissionário confissionários
 confesso confessos
 confessor confessores
 confete confetes
-confianca confiancas
+confiança confianças
 confidência confidências
 confidente confidentes
 configuração configurações
@@ -10222,14 +10221,14 @@ congresso congressos
 congrua congruas
 congruência congruências
 congruidade congruidades
-congucs congucses
+congues congueses
 conha conhas
 conhaque conhaques
 conhecedor conhecedores
 conhecenca conhecencas
 conhecimento conhecimentos
 conicidade conicidades
-conifera coniferas
+conífera coníferas
 conimbrigense conimbrigenses
 conirrostro conirrostros
 conivetura coniveturas
@@ -10295,7 +10294,7 @@ consolidado consolidados
 consolidador consolidadores
 consolo consolos
 consolo consolos
-consonancia consonancias
+consonânciaconsonancias
 consonantização consonantizações
 consorcio consorcios
 consorte consortes
@@ -10306,7 +10305,7 @@ conspirador conspiradores
 conspirata conspiratas
 conspurcação conspurcações
 consta constas
-constancia constancias
+constância constâncias
 constantinopolitano constantinopolitanos
 constelação constelações
 consternação consternações
@@ -10520,7 +10519,7 @@ contusão contusões
 conubio conubios
 convalaria convalarias
 convales convaleses
-convalescenca convalescencas
+convalescença convalescenças
 convecção convecções
 convenção convenções
 convencimento convencimentos
@@ -11289,7 +11288,7 @@ culatra culatras
 cule cules
 culinaria culinarias
 culminação culminações
-culminancia culminancias
+culminânciaculminancias
 culote culotes
 culpa culpas
 culpabilidade culpabilidades
@@ -11898,6 +11897,7 @@ depilatório depilatórios
 depleção depleções
 deploração deplorações
 deplorador deploradores
+deplorável deploráveis
 depoente depoentes
 depoimento depoimentos
 depolarização depolarizações
@@ -11915,6 +11915,7 @@ depreciador depreciadores
 depredação depredações
 depressão depressões
 depressos depressoses
+deprimente deprimentes 
 depuração depurações
 depurativo depurativos
 deputação deputações
@@ -12164,7 +12165,7 @@ desconceituado desconceituados
 desconcerto desconcertos
 desconchavo desconchavos
 desconcordancia desconcordancias
-desconcordia desconcordias
+desconcórdia desconcórdias
 desconexão desconexões
 desconfianca desconfiancas
 desconformidade desconformidades
@@ -12172,6 +12173,7 @@ desconforto desconfortos
 descongelação descongelações
 descongestionamento descongestionamentos
 desconhecedor desconhecedores
+desconhecido desconhecidos desconhecida desconhecidas
 desconhecimento desconhecimentos
 desconjuntura desconjunturas
 desconsagração desconsagrações
@@ -12368,7 +12370,7 @@ desidratação desidratações
 desidrogenação desidrogenações
 designação designações
 designador designadores
-designio designios
+desígnio desígnios
 desigualdade desigualdades
 desiludido desiludidos
 desilusão desilusões
@@ -12453,9 +12455,10 @@ desnaturação desnaturações
 desnaturado desnaturados
 desnaturalização desnaturalizações
 desnevada desnevadas
+desnecessário desnecessários desnecessária desnecessárias
 desniquelagem desniquelagens
 desnitrificação desnitrificações
-desnivel desniveis
+desnível desníveis
 desnivelamento desnivelamentos
 desnorteado desnorteados
 desnudação desnudações
@@ -12633,7 +12636,7 @@ desvanecedor desvanecedores
 desvanecimento desvanecimentos
 desvantagem desvantagens
 desvão desvões
-desvário desvários
+desvario desvarios
 desvelo desvelos
 desventura desventuras
 desventurado desventurados
@@ -12641,11 +12644,12 @@ desvinculação desvinculações
 desvio desvios
 desvirginamento desvirginamentos
 desvirtuação desvirtuações
+desvirtuado desvirtuados desvirtuada desvirtuadas
 desvirtuamento desvirtuamentos
 detalhe detalhes
 detecção detecções
 detector detectores
-detenca detencas
+detença detenças
 detenção detenções
 detento detentos
 detentor detentores
@@ -12882,6 +12886,7 @@ diminuendo diminuendos
 diminuição diminuições
 diminuiqor diminuiqores
 diminutivo diminutivos
+diminuto diminutos diminuta diminutas
 dimissorias dimissoriases
 dimorfia dimorfias
 dimorfismo dimorfismos
@@ -13208,6 +13213,7 @@ dolicocefalo dolicocefalos
 dolma dolmas
 dolmen dolmens
 dolo dolos
+doloroso dolorosos dolorosa dolorosas dolorido dolorida doloridas
 dolomia dolomias
 dolomita dolomitas
 dom dons
@@ -13814,9 +13820,11 @@ emplastramento emplastramentos
 emplastro emplastros
 emplumação emplumações
 empobrecimento empobrecimentos
+empobrecer empobrecido empobrecidos empobrecida empobrecidas
 empola empolas
 empolgadeira empolgadeiras
 empolgadura empolgaduras
+empolgante empolgantes
 empório empórios
 emposta empostas
 empostação empostações
@@ -14630,7 +14638,7 @@ epitrope epitropes
 epizeuxe epizeuxes
 epizoário epizoários
 epizootia epizootias
-epoca epocas
+época épocas
 epodo epodos
 eponimo eponimos
 epopeia epopeias
@@ -14835,6 +14843,7 @@ escambador escambadores
 escambo escambos
 escamel escameis
 escamoteação escamoteações
+escamoteável escamoteáveis
 escamula escamulas
 escanção escanções
 escancara escancaras
@@ -14914,6 +14923,7 @@ escatologia escatologias
 escavação escavações
 escavador escavadores
 esclarecimento esclarecimentos
+esclarecido esclarecidos esclarecida esclarecidas
 esclareia esclareias
 esclavina esclavinas
 esclavonio esclavonios
@@ -15038,8 +15048,9 @@ escroto escrotos
 escrunchante escrunchantes
 escruncho escrunchos
 escrupularia escrupularias
-escrupulo escrupulos
+escrúpulo escrúpulos
 escrupulosidade escrupulosidades
+escrupuloso escrupulosos escrupulosa escrupulosas
 escrutador escrutadores
 escrutinador escrutinadores
 escrutinio escrutinios
@@ -15076,6 +15087,7 @@ esfacelo esfacelos
 esfaimado esfaimados
 esfalfamento esfalfamentos
 esfarrapadeira esfarrapadeiras
+esfarrapado esfarrapados esfarrapada esfarrapadas
 esfarrapamento esfarrapamentos
 esfenio esfenios
 esfenoedro esfenoedros
@@ -15283,6 +15295,7 @@ espectrometro espectrometros
 espectroscopia espectroscopias
 espectroscopio espectroscopios
 especulação especulações
+especulador especuladores especuladora especuladoras
 especularia especularias
 especulo especulos
 espeleologia espeleologias
@@ -15303,7 +15316,7 @@ espenda espendas
 espeque espeques
 espera esperas
 espera-marido espera-maridos
-esperanca esperancas
+esperança esperanças
 esperanto esperantos
 esperdicador esperdicadores
 esperdício esperdícios
@@ -15313,7 +15326,7 @@ espermacete espermacetes
 espermatocele espermatoceles
 espirmatoófito espirmatófitos
 espermatogenese espermatogeneses
-espermatogonio espermatogonios
+espermatogônio espermatogônios
 espermatografia espermatografias
 espermatologia espermatologias
 espermatorreia espermatorreias
@@ -15333,13 +15346,13 @@ espetão espetões
 espeto espetos
 espevitadeira espevitadeiras
 espevitador espevitadores
-espia espias
+espiã espiãs
 espiada espiadas
 espião espiões
 espicho espichos
 espicilegio espicilegios
 espicula espiculas
-espiculo espiculos
+espículo espículos
 espiga espigas
 espigame espigames
 espigão espigões
@@ -16219,6 +16232,7 @@ expressão expressões
 expressionismo expressionismos
 expressionista expressionistas
 expressividade expressividades
+expressivo expressivos expressiva expressivas
 exprobração exprobrações
 exprobrador exprobradores
 expromissor expromissores
@@ -16423,6 +16437,7 @@ fama famas
 familia familias
 familiar familiares
 familiaridade familiaridades
+famoso famosos famosa famosas
 famulagem famulagens
 famulato famulatos
 famulo famulos
@@ -16988,7 +17003,7 @@ fiscalização fiscalizações
 fiscela fiscelas
 fisco fiscos
 fisga fisgas
-fisgada fisgadas
+fisgada fisgadas 
 fisgo fisgos
 fisica fisicas
 fisico fisicos
@@ -17539,6 +17554,7 @@ franzimento franzimentos
 fraque fraques
 fraqueira fraqueiras
 fraqueza fraquezas
+fraco fracos fraca fracas
 frasca frascas
 frascaria frascarias
 frasco frascos
@@ -18946,7 +18962,7 @@ gratulação gratulações
 grau graus
 graudo graudos
 graulho graulhos
-grauna graunas
+graúna graúnas
 gravação gravações
 gravador gravadores
 gravame gravames
@@ -19394,6 +19410,7 @@ habilitador habilitadores
 habilitando habilitandos
 habilitante habilitantes
 habitabilidade habitabilidades
+habitante habitantes
 habitação habitações
 habitaculo habitaculos
 habitat habitats
@@ -20139,6 +20156,7 @@ histotromia histotromias
 histrião histriões
 hitita hititas
 hitlerismo hitlerismos
+hodierno hodiernos hodierna hodiernas
 hodometria hodometrias
 hodometro hodometros
 holanda holandas
@@ -20522,6 +20540,7 @@ impala impalas
 impalpabilidade impalpabilidades
 impaludação impaludações
 impaludismo impaludismos
+imparcial imparciais
 imparcialidade imparcialidades
 imparidade imparidades
 imparissilabico imparissilabicos
@@ -20606,7 +20625,9 @@ impresciência impresciências
 imprescritibilidade imprescritibilidades
 impressão impressões
 impressionabilidade impressionabilidades
+impressionante impressionantes
 impressionismo impressionismos
+impressionado impressionados impressionada impressionadas
 impressionista impressionistas
 impresso impressos
 impressor impressores
@@ -20813,11 +20834,12 @@ indez indezes
 indiada indiadas
 indianismo indianismos
 indicação indicações
+indicativo indicativos
 indicção indicções
-indice indices
+índice índices
 indiciado indiciados
 indício indícios
-indiculo indiculos
+indículo indículos
 indiferênça indiferênças
 indiferentismo indiferentismos
 indiferentista indiferentistas
@@ -20864,13 +20886,13 @@ indulto indultos
 indumentaria indumentarias
 indumento indumentos
 indusia indusias
-industria industrias
+indústria indústrias
 industrial industriais
 industrialismo industrialismos
 industrialismo industrialismos
 industrialização industrializações
 industriário industriários
-indutancia indutancias
+indutância indutâncias
 induto indutos
 induvia induvias
 induzidor induzidores
@@ -20878,16 +20900,18 @@ induzimentu induzimentus
 inedia inedias
 ineuitismo ineuitismos
 inefabilidade inefabilidades
-ineficacia ineficacias
+inefável inefáveis
+ineficácia ineficácias
 inelegancia inelegancias
 inelegibilidade inelegibilidades
-inepcia inepcias
+inépcia inépcias
 ineptidão ineptidões
 inercia inercias
 inerência inerências
-inerrancia inerrancias
+inerrância inerrâncias
 inervação inervações
 inescrupulosidade inescrupulosidades
+inescrupuloso inescrupulosos inescrupulosa inescrupulosas
 inescrutabilidade inescrutabilidades
 inevidência inevidências
 inexatidão inexatidões
@@ -20900,14 +20924,14 @@ inextinguibilidade inextinguibilidades
 inextricabilidade inextricabilidades
 infalibilidade infalibilidades
 infamação infamações
-infamia infamias
+infâmia infâmias
 infanção infanções
-infancia infancias
+infância infâncias
 infanta infantas
 infantado infantados
 infantaria infantarias
 infante infantes
-infanticidio infanticidios
+infanticídio infanticídios
 infantil infantis
 infantilidade infantilidades
 infantilismo infantilismos
@@ -20916,6 +20940,7 @@ infecção infecções
 infecundidade infecundidades
 infelicidade infelicidades
 infelicitador infelicitadores
+infeliz infelizes
 inferência inferências
 inferioridade inferioridades
 infernalidade infernalidades
@@ -21043,8 +21068,9 @@ inquisidor inquisidores
 insaciabilidade insaciabilidades
 insalivação insalivações
 insalubridade insalubridades
+insalubre insalubres
 insanabilidade insanabilidades
-insania insanias
+insânia insânias
 insanidade insanidades
 insciência insciências
 inscrição inscrições
@@ -21064,13 +21090,14 @@ inseto insetos
 insetologia insetologias
 insetologista insetologistas
 insexualidade insexualidades
-insidia insidias
+insídia insídias
 insidiador insidiadores
 insignia insignias
 insignificância insignificâncias
 insinceridade insinceridades
 insinuação insinuações
 insinuador insinuadores
+insinuado insinuados insinuada insinuadas
 insinuância insinuâncias
 insipidez insipidezes
 insipiência insipiências
@@ -21085,7 +21112,7 @@ insolvabilidade insolvabilidades
 insolvência insolvências
 insolvente insolventes
 insondabilidade insondabilidades
-insonia insonias
+insônia insônias
 insonolência insonolências
 inspeção inspeções
 inspetor inspetores
@@ -21229,15 +21256,17 @@ intertrigo intertrigos
 interurbano interurbanos
 intervalo intervalos
 intervenção intervenções
-interventor interventores
+interventor interventores interventora interventoras
+interventoria interventorias
 interversão interversões
 intestino intestinos
+intestinal intestinais
 intimação intimações
 intimador intimadores
 intimativa intimativas
 intimidação intimidações
 intimidade intimidades
-intimo intimos
+íntimo íntimos íntima íntimas
 intina intinas
 intinção intinções
 intitulação intitulações
@@ -21409,6 +21438,7 @@ irradiação irradiações
 irre irres
 irredentismo irredentismos
 irredutibilidade irredutibilidades
+irredutível irredutíveis
 irreflexão irreflexões
 irrefutabilidade irrefutabilidades
 irregularidade irregularidades
@@ -21909,6 +21939,7 @@ judia judias
 judiação judiações
 judiaria judiarias
 judicatura judicaturas
+judicial judiciais
 judo judos
 jugada jugadas
 jugador jugadores
@@ -22564,7 +22595,7 @@ legatário legatários
 legenda legendas
 legendário legendários
 legião legiões
-legifero legiferos
+legífero legíferos
 legislação legislações
 legislador legisladores
 legislativo legislativos
@@ -23455,7 +23486,8 @@ luxaria luxarias
 luxemburgues luxemburgueses
 luxo luxos
 luxuosidade luxuosidades
-luxuria luxurias
+luxuoso luxuosos luxuosa luxuosas
+luxúria luxúrias
 luz luzes
 luzeiro luzeiros
 luze-luze luze-luze
@@ -23468,21 +23500,17 @@ luzio luzios
 luzio luzios
 luzonita luzonitas
 luzula luzulas
-m ns
-ma mas
 maarani maaranis
 mabaca mabacas
 maboia maboias
 maca macas
-maca macas
-maca macas
-macaca macacas
+maça maças
 macacada macacadas
 macacalhada macacalhadas
 macação macações
 macacaria macacarias
 macacauba macacaubas
-macaco macacos
+macaco macacos macaca macacas
 macacoa macacoas
 macacu macacus
 macada macadas
@@ -24374,6 +24402,7 @@ maravediada maravediadas
 maravidil maravidis
 maravilha maravilhas
 maravilhador maravilhadores
+maravilhoso maravilhosos maravilhosa maravilhosas
 maravilha-do-sertão maravilha-do-sertão
 maravilhamento maravilhamentos
 maravilhoso maravilhosos
@@ -24973,6 +25002,7 @@ melancia-de-cobra melancias-de-cobra
 melancial melanciais
 melancieira melancieiras
 melancolia melancolias
+melancólico melancólicos melancólica melancólicas
 melania melanias
 melanina melaninas
 melanismo melanismos
@@ -25506,16 +25536,16 @@ miite miites
 mijui mijuis
 milagre milagres
 milagreiro milagreiros
-milagrosa milagrosas
+milagroso milagrosos milagrosa milagrosas
 milanes milaneses
 mildio mildios
 milefolio milefolios
 mil-em-rama mil-em-rama
 milenário milenários
-milenio milenios
-milesima milesimas
-milesimo milesimos
-milesio milesios
+milênio milênios
+milésima milésimas
+milésimo milésimos
+milésio milésios
 mil-flores mil-flores
 milfurada milfuradas
 milha milhas
@@ -25742,8 +25772,9 @@ mistagogia mistagogias
 mistagogo mistagogos
 mistela mistelas
 mister misteres
-misterio misterios
-mistica misticas
+mistério mistérios
+misterioso misteriosos misteriosa misteriosas
+mística místicas
 misticidade misticidades
 misticismo misticismos
 mistificação mistificações
@@ -25760,6 +25791,7 @@ mitificação mitificações
 mitigação mitigações
 mitigador mitigadores
 mitismo mitismos
+mítico míticos mítica míticas
 mito mitos
 mitocondrio mitocondrios
 mitografia mitografias
@@ -25828,6 +25860,7 @@ mocoto mocotos
 mocuba mocubas
 mocubucu mocubucus
 moda modas
+modal modais
 modalidade modalidades
 modelação modelações
 modelador modeladores
@@ -25840,7 +25873,7 @@ modernice modernices
 modernismo modernismos
 modernista modernistas
 modernização modernizações
-moderno modernos
+moderno modernos moderna modernas
 modestia modestias
 modicidade modicidades
 modificação modificações
@@ -26472,10 +26505,10 @@ multiplicação multiplicações
 multiplicador multiplicadores
 multiplicando multiplicandos
 multiplicidade multiplicidades
-multiplo multiplos
+múltiplo múltiplos
 mulundu mulundus
 mulungu mulungus
-mumbaca mumbacas
+mumbaça mumbaças
 mumbuca mumbucas
 mumia mumias
 mumificação mumificações
@@ -29063,7 +29096,7 @@ particular particulares
 particularidade particularidades
 particularização particularizações
 partida partidas
-partidário partidários
+partidário partidários partidária partidárias
 partidarismo partidarismos
 partido partidos
 partidor partidores
@@ -30886,6 +30919,7 @@ podengo podengos
 poder poderes
 podere poderes
 poderio poderios
+poderoso poderosos poderosa poderosas
 podestade podestades
 podoa podoas
 podobranquia podobranquias
@@ -31592,7 +31626,7 @@ preparatoriano preparatorianos
 preparatório preparatórios
 preparo preparos
 prepau prepaus
-preponderancia preponderancias
+preponderância preponderâncias
 preposição preposições
 prepositiva prepositivas
 preposito prepositos
@@ -31601,6 +31635,7 @@ preposteração preposterações
 preposteridade preposteridades
 preposto prepostos
 prepotência prepotências
+prepotente prepotentes
 prepucio prepucios
 pre-rafaelismo pre-rafaelismo
 pre-romantismo pre-romantismo
@@ -31817,7 +31852,8 @@ prodiagnostico prodiagnosticos
 prodição prodições
 prodigalidade prodigalidades
 prodigalizador prodigalizadores
-prodigio prodigios
+prodígio prodígios
+prodigioso prodigiosos prodigiosa prodigiosas
 proditor proditores
 prodromo prodromos
 produção produções
@@ -32086,7 +32122,7 @@ protozoário protozoários
 protozoologia protozoologias
 protramento protramentos
 protrusão protrusões
-protuberancia protuberancias
+protuberânciaprotuberancias
 protutela protutelas
 protutor protutores
 prova provas
@@ -32111,7 +32147,8 @@ providencialismo providencialismos
 providencialista providencialistas
 provigário provigários
 provimento provimentos
-provincia provincias
+província provncias
+provincial provinciais
 provincialismo provincialismos
 provincianismo provincianismos
 provinciano provincianos
@@ -32179,7 +32216,7 @@ psicologica psicologicas
 psicologismo psicologismos
 psicologista psicologistas
 psicologo psicologos
-psicomancia psicomancias
+psicomânciapsicomancias
 psicomante psicomantes
 psicometria psicometrias
 psicopata psicopatas
@@ -32238,6 +32275,7 @@ pubescer pubesceres
 pubis pubises
 publicação publicações
 publicador publicadores
+publicado publicados publicada publicadas
 publica-forma publica-forma
 publicano publicanos
 publicidade publicidades
@@ -32300,7 +32338,7 @@ pulsatila pulsatilas
 pulseira pulseiras
 pulsimetro pulsimetros
 pulsografo pulsografos
-pululancia pululancias
+pululânciapululancias
 pulverescência pulverescências
 pulverização pulverizações
 pulverizador pulverizadores
@@ -32335,7 +32373,7 @@ pureia pureias
 pureza purezas
 purga purgas
 purgação purgações
-purgativo purgativos
+purgativo purgativos purgativa purgativas
 purgatório purgatórios
 puri puris
 puridade puridades
@@ -33448,7 +33486,7 @@ recalcamento recalcamentos
 recalcificação recalcificações
 recalcificante recalcificantes
 recalcitração recalcitrações
-recalcitrancia recalcitrancias
+recalcitrânciarecalcitrancias
 recalmão recalmões recalmãos
 recalque recalques
 recamador recamadores
@@ -33659,7 +33697,7 @@ redoria redorias
 redouca redoucas
 redra redras
 redução reduções
-redundancia redundancias
+redundânciaredundancias
 reduplicação reduplicações
 reduplicativo reduplicativos
 redutibilidade redutibilidades
@@ -33682,7 +33720,7 @@ reencarnação reencarnações
 reenchimento reenchimentos
 reencontro reencontros
 reengajamento reengajamentos
-reentrancia reentrancias
+reentrânciareentrancias
 reespumas reespumases
 restruturação restruturações
 reestruturação reestruturações
@@ -33915,7 +33953,7 @@ relento relentos
 relevado relevados
 relevador relevadores
 relevamento relevamentos
-relevancia relevancias
+relevânciarelevancias
 relevante relevantes
 relevo relevos
 relha relhas
@@ -33942,7 +33980,7 @@ relojoaria relojoarias
 relojoeiro relojoeiros
 relotação relotações
 relutação relutações
-relutancia relutancias
+relutânciarelutancias
 relva relvas
 relvado relvados
 relvão relvões
@@ -34121,6 +34159,7 @@ repetência repetências
 repetente repetentes
 repetição repetições
 repetidor repetidores
+repetido repetidos repetida repetidas
 repicador repicadores
 repicagem repicagens
 repica-ponto repica-ponto
@@ -34192,8 +34231,8 @@ republicidio republicidios
 republico republicos
 republiqueta republiquetas
 repudiação repudiações
-repudio repudios
-repugnancia repugnancias
+repúdio repúdios
+repugnânciarepugnancias
 repulsa repulsas
 repulsão repulsões
 repulso repulsos
@@ -34260,12 +34299,12 @@ resfriamento resfriamentos
 resgatador resgatadores
 resgate resgates
 resguardo resguardos
-residência residências
+residência residências residencial residenciais
 residente residentes
 residuo residuos
 resignação resignações
 resignante resignantes
-resignatário resignatários
+resignatário resignatários resignatária resignatárias
 resilição resilições
 residuo residuais residual
 resina resinas
@@ -34300,6 +34339,7 @@ respingão respingões
 respingo respingos
 respirabilidade respirabilidades
 respiração respirações
+respiratório respiratórios
 respirador respiradores
 respiradouro respiradouros
 respiramento respiramentos
@@ -34338,7 +34378,7 @@ rbssemeadura rbssemeaduras
 ressentimento ressentimentos
 ressonadela ressonadelas
 ressonador ressonadores
-ressonancia ressonancias
+ressonânciaressonancias
 ressono ressonos
 ressoo ressoos
 ressorção ressorções
@@ -34488,16 +34528,17 @@ retrovenda retrovendas
 retrovendição retrovendições
 retroversão retroversões
 retruque retruques
-retumbancia retumbancias
+retumbânciaretumbancias
 retumbo retumbos
 returno returnos
-reu reus
+réu réus
 reuma reumas
 reumametria reumametrias
 reumametro reumametros
 reumatalgia reumatalgias
 reumatismo reumatismos
 reunião reuniões
+reunido reunidos reunida reunidas
 revacinação revacinações
 revalidação revalidações
 revanche revanches
@@ -34753,17 +34794,18 @@ roboração roborações
 roboredo roboredos
 robustez robustezes
 robusteza robustezas
+robusto robusta robustos robustas
 roca rocas
 roca rocas
 rocada rocadas
-rocada rocadas
-rocadela rocadelas
-rocado rocados
+roçada roçadas
+roçadela roçadelas
+roçado roçados
 rocado rocados
 rocador rocadores
 rocadoura rocadouras
 rocadura rocaduras
-rocagem rocagens
+roçagem roçagens
 rocalha rocalhas
 rocambole rocamboles
 rocamento rocamentos
@@ -34824,6 +34866,7 @@ rodopsina rodopsinas
 rodouca rodoucas
 rodovalho rodovalhos
 rodovia rodovias
+rodoviária rodoviárias
 rodura roduras
 roedeira roedeiras
 roedeiro roedeiros
@@ -35049,6 +35092,7 @@ rubixa rubixas
 rublo rublos
 rubo rubos
 rubor rubores
+rubro rubros rubra rubras
 ruborização ruborizações
 rubrica rubricas
 rubricador rubricadores
@@ -35122,7 +35166,7 @@ rutacea rutaceas
 rutenio rutenios
 ruteno rutenos
 rutilação rutilações
-rutilancia rutilancias
+rutilânciarutilancias
 rutilo rutilos
 rutina rutinas
 rutulo rutulos
@@ -35466,6 +35510,7 @@ saltos-furtados saltos-furtados
 saltria saltrias
 salusre salusres
 salubridade salubridades
+salubre salubres
 saluco salucos
 saludador saludadores
 salva salvas
@@ -36088,7 +36133,7 @@ selaria selarias
 seleção seleções
 selecionado selecionados
 seleiro seleiros
-selenio selenios
+selênio selênios
 selenita selenitas
 selenografia selenografias
 selenografo selenografos
@@ -36110,7 +36155,7 @@ selvagem selvagens
 selvageria selvagerias
 selvajaria selvajarias
 selvatiqueza selvatiquezas
-semaforo semaforos
+semáforo semáforos
 semana semanas
 semanário semanários
 semantema semantemas
@@ -36235,6 +36280,7 @@ sensaborão sensaborões
 sensaboria sensaborias
 sensação sensações
 sensacionalismo sensacionalismos
+sensacional sensacionais
 sensacionismo sensacionismos
 sensatez sensatezes
 sensibilidade sensibilidades
@@ -36247,7 +36293,7 @@ sensualidade sensualidades
 sensualismo sensualismos
 sensualista sensualistas
 sentada sentadas
-sentenca sentencas
+sentença sentenças
 sentenciado sentenciados
 sentenciador sentenciadores
 sentido sentidos
@@ -36263,6 +36309,7 @@ senzala senzalas
 sepala sepalas
 separação separações
 separador separadores
+separado separados separada separadas
 separata separatas
 separatismo separatismos
 separatista separatistas
@@ -36273,6 +36320,7 @@ sepsia sepsias
 septação septações
 septena septenas
 septenio septenios
+septenato septenatos
 septeto septetos
 septicemia septicemias
 septiciana septicianas
@@ -36601,14 +36649,14 @@ sigmatismo sigmatismos
 sigmoide sigmoides
 sigmoidite sigmoidites
 signa signas
-signatário signatários
+signatário signatários signatária signatárias
 significação significações
 significado significados
 significador significadores
-significancia significancias
+significânciasignificancias
 signo signos
 signo-saimão signos-saimão
-signo-salomão signo-salomão
+signo-salomão signos-salomão
 sila silas
 silaba silabas
 silabação silabações
@@ -36741,6 +36789,7 @@ sincarpio sincarpios
 sinceiral sinceirais
 sinceiro sinceiros
 sincelo sincelos
+sincero sinceros sincera sinceras
 sinceridade sinceridades
 sincício sincícios
 sincipucio sincipucios
@@ -36769,12 +36818,12 @@ sindicalismo sindicalismos
 sindicalista sindicalistas
 sindicalização sindicalizações
 sindicalizado sindicalizados
-sindicancia sindicancias
+sindicânciasindicancias
 sindicante sindicantes
 sindicatado sindicatados
 sindicato sindicatos
 sindicatório sindicatórios
-sindico sindicos
+síndico síndicos
 sindrome sindromes
 sinecura sinecuras
 sinecurismo sinecurismos
@@ -36792,7 +36841,6 @@ sinergides sinergideses
 sinergismo sinergismos
 sinese sineses
 sinestesia sinestesias
-sineta sinetas
 sineta sinetas
 sinete sinetes
 sinfise sinfises
@@ -37279,7 +37327,7 @@ somiticaria somiticarias
 somito somitos
 sonambulismo sonambulismos
 sonambulo sonambulos
-sonancia sonancias
+sonânciasonancias
 sonante sonantes
 sonata sonatas
 sonatina sonatinas
@@ -37362,7 +37410,7 @@ soro soros
 soroca sorocas
 sorocabano sorocabanos
 sorocabucu sorocabucus
-soro-diagnostico soro-diagnostico
+soro-diagnostico soro-diagnosticos
 sorologia sorologias
 sorongo sorongos
 soror sorores
@@ -37407,7 +37455,7 @@ sotaa sotaas
 sota-capitanea sota-capitanea
 sotaina sotainas
 sotão sotãos
-sota-piloto sota-piloto
+sota-piloto sota-pilotos
 sotaque sotaques
 sota-vento sota-vento
 sota-voga sota-voga
@@ -37566,7 +37614,7 @@ subsídio subsídios
 subsistência subsistências
 subsolo subsolos
 substabelecimento substabelecimentos
-substancia substancias
+substânciasubstancias
 substancial substanciais
 substancialidade substancialidades
 substancialismo substancialismos
@@ -37686,7 +37734,7 @@ sujeito sujeitos
 sujidade sujidades
 sul suis
 sula sulas
-sul-africano sul-africano
+sul-africano sul-africanos
 sulão sulões
 sulavento sulaventos
 sulco sulcos
@@ -37705,7 +37753,7 @@ sulfureto sulfuretos
 sulimão sulimões
 sulipa sulipas
 sulista sulistas
-sul-rio-grandense sul-rio-grandense
+sul-rio-grandense sul-rio-grandenses
 sultana sultanas
 sultanado sultanados
 sultanato sultanatos
@@ -37745,7 +37793,7 @@ sununga sunungas
 suomi suomis
 suor suores
 supedaneo supedaneos
-superabundancia superabundancias
+superabundânciasuperabundancias
 superalimentação superalimentações
 superavit superavits
 supercilio supercilios
@@ -37806,7 +37854,7 @@ supositório supositórios
 suposto supostos
 supranaturalismo supranaturalismos
 supranaturalista supranaturalistas
-supra-realismo supra-realismo
+supra-realismo supra-realismos
 supra-renal supra-renal
 supra-sumo supra-sumo
 supremacia supremacias
@@ -37872,7 +37920,7 @@ suspirador suspiradores
 suspiro suspiros
 sussurro sussurros
 sustanca sustancas
-sustancia sustancias
+sustânciasustancias
 sustenido sustenidos
 sustentação sustentações
 sustentaculo sustentaculos
@@ -39453,7 +39501,7 @@ tocologo tocologos
 toda todas
 todeiro todeiros
 todo todos
-todo-poderoso todo-poderoso
+todo-poderoso todo-poderosos
 toe toes
 toeira toeiras
 toesa toesas
@@ -39476,7 +39524,7 @@ toledano toledanos
 toleima toleimas
 toleirão toleirões
 tolerabilidade tolerabilidades
-tolerancia tolerancias
+tolerânciatolerancias
 tolerantismo tolerantismos
 tolete toletes
 toleteira toleteiras
@@ -39791,7 +39839,7 @@ traco tracos
 tracoma tracomas
 tracomatoso tracomatosos
 tracua tracuas
-tradescancia tradescancias
+tradescânciatradescancias
 tradição tradições
 tradicionalismo tradicionalismos
 tradicionalista tradicionalistas
@@ -39801,7 +39849,7 @@ tradução traduções
 tradutor tradutores
 traduzinhador traduzinhadores
 trafego trafegos
-traficancia traficancias
+traficânciatraficancias
 traficante traficantes
 trafico traficos
 tragacanta tragacantas
@@ -39951,7 +39999,7 @@ transtorno transtornos
 transubstanciação transubstanciações
 transudação transudações
 transudato transudatos
-transumancia transumancias
+transumânciatransumancias
 transunto transuntos
 transvaliano transvalianos
 transversal transversais
@@ -40835,7 +40883,7 @@ uivador uivadores
 uivo uivos
 ujica ujicas
 ulano ulanos
-ulcera ulceras
+úlcera úlceras
 ulceração ulcerações
 ulema ulemas
 ulissiponense ulissiponenses
@@ -40850,7 +40898,6 @@ ulorragia ulorragias
 ulotrico ulotricos
 ultericridade ultericridades
 ultimação ultimações
-ultimas ultimases
 ultimato ultimatos
 ultimo ultimos
 ultracorreção ultracorreções
@@ -40871,7 +40918,6 @@ ululador ululadores
 ulular ululares
 ululo ululos
 ulva ulvas
-um uns
 umari umaris
 umaua umauas
 umbamba umbambas
@@ -40960,7 +41006,7 @@ unionismo unionismos
 unionista unionistas
 unipara uniparas
 unipolaridade unipolaridades
-unissonancia unissonancias
+unissonânciaunissonancias
 unissono unissonos
 unitário unitários
 unitarismo unitarismos
@@ -40980,9 +41026,7 @@ unto untos
 untório untórios
 untuosidade untuosidades
 untura unturas
-upa upas
 upiuba upiubas
-ura uras
 uracacu uracacus
 uraco uracos
 uracrasia uracrasias
@@ -41061,7 +41105,7 @@ urodinia urodinias
 urolito urolitos
 urologia urologias
 urologista urologistas
-uromancia uromancias
+uromânciauromancias
 uromelo uromelos
 uropigio uropigios
 uropoese uropoeses
@@ -41185,7 +41229,7 @@ vaali vaalis
 vaca vacas
 vacada vacadas
 vacagem vacagens
-vacancia vacancias
+vacânciavacancias
 vacarai vacarais
 vacari vacaris
 vacaria vacarias
@@ -41219,7 +41263,7 @@ vagalhão vagalhões
 vaga-lume vaga-lume
 vagamundo vagamundos
 vaganau vaganaus
-vagancia vagancias
+vagânciavagancias
 vagão vagões
 vagar vagares
 vagareza vagarezas
@@ -41634,7 +41678,7 @@ verborreia verborreias
 verbosidade verbosidades
 verdacho verdachos
 verdade verdades
-verdadeiro verdadeiros
+verdadeiro verdadeiros verdadeira verdadeiras
 verdasca verdascas
 verdascada verdascadas
 verdasco verdascos
@@ -41842,7 +41886,7 @@ vibratilidade vibratilidades
 vibrião vibriões
 vibrissas vibrissases
 viburno viburnos
-vicariancia vicariancias
+vicariânciavicariancias
 vicariato vicariatos
 vice-almirantado vice-almirantados
 vice-almirante vice-almirantes
@@ -41918,7 +41962,7 @@ vigesimo vigesimos
 vigia vigias
 vigiador vigiadores
 vigieiro vigieiros
-vigilancia vigilancias
+vigilânciavigilancias
 vigilante vigilantes
 vigilia vigilias
 vigintivirato vigintiviratos
@@ -42249,7 +42293,7 @@ volumetria volumetrias
 volumetro volumetros
 voluntariado voluntariados
 voluntariedade voluntariedades
-voluntário voluntários
+voluntário voluntários voluntária voluntárias
 voluntarismo voluntarismos
 volupia volupias
 voluptuosidade voluptuosidades
@@ -42309,6 +42353,7 @@ vulgaridade vulgaridades
 vulgarismo vulgarismos
 vulgarização vulgarizações
 vulgarizador vulgarizadores
+vulgarizado vulgarizados vulgarizada vulgarizadas
 vulgata vulgatas
 vulgo vulgos
 vulgocracia vulgocracias
@@ -42621,6 +42666,7 @@ zelação zelações
 zelador zeladores
 zelandes zelandeses
 zelo zelos
+zeloso zelosos zelosa zelosas
 zelotipia zelotipias
 zenda zendas
 zendavesta zendavestas
