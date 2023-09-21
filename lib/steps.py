@@ -28,7 +28,10 @@ def check_if_short_word(word: str) -> bool:
     if word is None or len(word) == 0:
         return None
 
-    if len(word) <= 3 and not (word.lower() in small_words):
+    if word == "pai":
+        print(small_words.search(word.lower()))
+
+    if len(word) <= 3 and not small_words.search(word.lower()):
         return None
 
     return word
@@ -84,7 +87,7 @@ def remove_stop_words(word: str) -> str:
 
     word_lower = word.lower()
 
-    if word_lower not in stop_words:
+    if not stop_words.search(word_lower):
         if word[0].isupper():
             return word_lower.capitalize()
         else:
@@ -100,10 +103,10 @@ def check_if_substantive(word: str) -> str:
     if word is None or len(word) == 0:
         return None
 
-    for line in substantives:
-        for substantive in line:
-            if word == unidecode(substantive):
-                return substantive
+    result = substantives.search(word)
+
+    if result != False:
+        return result
 
     return None
 
@@ -112,10 +115,10 @@ def check_if_verb(word: str) -> str:
     if word is None or len(word) == 0:
         return None
 
-    for line in verbs:
-        for verb in line:
-            if word == unidecode(verb):
-                return verb
+    result = verbs.search(word)
+
+    if result != False:
+        return result
 
     return None
 
@@ -124,10 +127,10 @@ def check_if_archaic(word: str) -> str:
     if word is None:
         return None
 
-    for line in archaisms:
-        for archaism in line:
-            if word == unidecode(archaism):
-                return archaism
+    result = archaisms.search(word)
+
+    if result != False:
+        return result
 
     return None
 
@@ -136,7 +139,7 @@ def check_if_first_name(word: str) -> str:
     if word is None or len(word) == 0:
         return None
 
-    if word[0].isupper() or word.lower() in first_names:
+    if word[0].isupper() or first_names.search(word.lower()) != False:
         return word.title()
 
     return None
@@ -146,9 +149,9 @@ def check_if_gentile(word: str) -> str:
     if word is None:
         return None
 
-    for line in gentiles:
-        for gentile in line[2:]:
-            if word == unidecode(gentile):
-                return line[:3]
+    result = gentiles.search(word)
+
+    if result != False:
+        return result
 
     return None
