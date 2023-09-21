@@ -30,8 +30,7 @@ for file_name in os.listdir(path):
         for word in words:
             first_step = remove_special_characters(word)
             if first_step is None:
-                if first_step:
-                    trash_words.append((word, "1"))
+                trash_words.append((word, "1"))
                 continue
 
             second_step = check_if_short_word(first_step)

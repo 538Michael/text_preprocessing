@@ -18,11 +18,14 @@ def remove_special_characters(word: str) -> str:
     # word = word.replace("ç", "c").replace("Ç", "c")
     word = re.sub(r"[^a-zA-Z-\u00C0-\u017F]", "", word)
 
+    if len(word) == 0:
+        return None
+
     return word
 
 
 def check_if_short_word(word: str) -> bool:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     if len(word) <= 3 and not (word.lower() in small_words):
@@ -32,14 +35,14 @@ def check_if_short_word(word: str) -> bool:
 
 
 def remove_accents(word: str) -> str:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     return unidecode(word)
 
 
 def check_hyphens(word: str) -> list:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     try:
@@ -69,11 +72,14 @@ def check_hyphens(word: str) -> list:
     if match:
         word = word[: match.start()]
 
+    if len(word) == 0:
+        return None
+
     return word
 
 
 def remove_stop_words(word: str) -> str:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     word_lower = word.lower()
@@ -84,11 +90,14 @@ def remove_stop_words(word: str) -> str:
         else:
             return word
 
+    if len(word) == 0:
+        return None
+
     return None
 
 
 def check_if_substantive(word: str) -> str:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     for line in substantives:
@@ -100,7 +109,7 @@ def check_if_substantive(word: str) -> str:
 
 
 def check_if_verb(word: str) -> str:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     for line in verbs:
@@ -124,7 +133,7 @@ def check_if_archaic(word: str) -> str:
 
 
 def check_if_first_name(word: str) -> str:
-    if word is None:
+    if word is None or len(word) == 0:
         return None
 
     if word[0].isupper() or word.lower() in first_names:
